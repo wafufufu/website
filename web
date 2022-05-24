@@ -1,50 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <title>Document</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web</title>
 </head>
-<body> 
-  <h1>About</h1>
-  <p>It can be intimidating for women to learn and ask questions when they are in an extre minority. While open and welcoming, today's budding developer community is up to 91% male. If we can empowwer more females with the confidence in their technological capabilities we can begin to change this landscape.</p>
-  <h2>Our location</h2>
-  <br>    <ul>       
-    <li>USA</li>       
-  <ul>           
-    <li>New York</li> 
-    <li>Columbus</li> 
-    <li>Austin</li>   
-   <li>Philly</li>   
-  </ul>     
-    <li>World</li>    
-  <ul>         
-    <li>Ottawa</li>      
-    <li>Sydney</li>    
-  </ul>    </ul>  
-  <br>    
-    <h2>Upcoming Classes</h2>  
-  <br>    <table border="1">  
-    <tr>        
-      <th>Location</th>      
-      <th>Topic</th>  
-   </tr>        <tr>      
-      <td>New York</td>      
-      <td>Javascript & jQuery</td> 
-  </tr>        <tr>     
-    <td>San Francisco</td>   
-    <td>HTML & CSS</td>     
-  </tr>    </table>    <br>   
-    <h2>Sign Up!</h2>    <br>  
-    <label name="" id="">Name:</label><input type="">
-  <br>    <label for="">Email:</label><input type=""> 
-  <br>    <label for="">Location:</label>    <select> 
-  <option value="">San Francisco</option>    </select>
-  <br>    <label for="">Gender:</label><br>    <input type="radio" name="" id="">Female     <input type="radio" name="" id="">Male   
-  <br>    <label type="">Experience</label>    
-  <br>    <textarea type="" id="" cols="30" rows="5"></textarea>   
-  <br>    <button>Sign Up</button>   
-  </body>
-  </html>
-  
+<body>
+    <img src="https://media.discordapp.net/attachments/943492545386803242/978492022639955988/img.png"> <br>  
+    <h1>About</h1>
+    <p>It can be intimidating for women to learn and ask questions when they are in an extre minority. While open and welcoming, today's budding developer community is up to 91% male. If we can empowwer more females with the confidence in their technological capabilities we can begin to change this landscape.</p>
+    
+    <h1>Our locations</h1>
+    <ul>
+        <li>USA</li>
+    <ul>            
+        <li>New York</li>            
+        <li>Columbus</li>            
+        <li>Austin</li>            
+        <li>Philly</li>        
+    </ul>        
+        <li>World</li>        
+    <ul>            
+        <li>Ottawa</li>            
+        <li>Sydney</li>        
+    </ul>
+    
+    <h1>Upcoming Classes</h1>
+    <table border="1">
+        <tr>
+            <td>Location</td>
+            <td>Topic</td>
+        </tr>
+        <tr>
+            <td>New York</td>
+            <td>JaveScript & jQuery</td>
+        </tr>
+        <tr>
+            <td>San Francisco</td>
+            <td>HTML & CSS</td>
+        </tr>
+    </table>
+    <h1>Sign up!</h1>
+    <label for="">Name:</label>
+    <input type="text"> <br>
+    
+    <label for="">Email:</label>
+    <input type="text"> <br>
+
+    <label for="">Location</label>
+    <select name="" id="">
+        <option value="">San Francisco</option>
+        <option value="">New York</option>
+    </select>
+    <br>
+    <label for="">Gender:</label> <br>
+    <input type="radio">Female
+    <input type="radio">Male
+    <br>
+    <label for="">Experience:</label> <br>
+    <input type= "text"> <br>
+    <button>Sign up</button>
+
+    <p>Twitter/Facebook/Flicker</p>
+</body>
+</html>
