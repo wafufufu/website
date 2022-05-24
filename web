@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Document</title>
+</head>
+<body> 
+  <h1>About</h1>
+  <p>It can be intimidating for women to learn and ask questions when they are in an extre minority. While open and welcoming, today's budding developer community is up to 91% male. If we can empowwer more females with the confidence in their technological capabilities we can begin to change this landscape.</p>
+  <h2>Our location</h2>
+  <br>    <ul>       
+    <li>USA</li>       
+  <ul>           
+    <li>New York</li> 
+    <li>Columbus</li> 
+    <li>Austin</li>   
+   <li>Philly</li>   
+  </ul>     
+    <li>World</li>    
+  <ul>         
+    <li>Ottawa</li>      
+    <li>Sydney</li>    
+  </ul>    </ul>  
+  <br>    
+    <h2>Upcoming Classes</h2>  
+  <br>    <table border="1">  
+    <tr>        
+      <th>Location</th>      
+      <th>Topic</th>  
+   </tr>        <tr>      
+      <td>New York</td>      
+  <td>Javascript & jQuery</td> 
+  </tr>        <tr>     
+  <td>San Francisco</td>   
+  <td>HTML & CSS</td>     
+  </tr>    </table>    <br>   
+  <h2>Sign Up!</h2>    <br>  
+  <label name="" id="">Name:</label><input type="">
+  <br>    <label for="">Email:</label><input type=""> 
+  <br>    <label for="">Location:</label>    <select> 
+  <option value="">San Francisco</option>    </select>
+  <br>    <label for="">Gender:</label><br>    <input type="radio" name="" id="">Female     <input type="radio" name="" id="">Male   
+  <br>    <label type="">Experience</label>    
+  <br>    <textarea type="" id="" cols="30" rows="5"></textarea>   
+  <br>    <button>Sign Up</button>   
+  </body>
+  </html>
+  
