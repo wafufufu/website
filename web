@@ -31,13 +31,13 @@
       <th>Topic</th>  
    </tr>        <tr>      
       <td>New York</td>      
-  <td>Javascript & jQuery</td> 
+      <td>Javascript & jQuery</td> 
   </tr>        <tr>     
-  <td>San Francisco</td>   
-  <td>HTML & CSS</td>     
+    <td>San Francisco</td>   
+    <td>HTML & CSS</td>     
   </tr>    </table>    <br>   
-  <h2>Sign Up!</h2>    <br>  
-  <label name="" id="">Name:</label><input type="">
+    <h2>Sign Up!</h2>    <br>  
+    <label name="" id="">Name:</label><input type="">
   <br>    <label for="">Email:</label><input type=""> 
   <br>    <label for="">Location:</label>    <select> 
   <option value="">San Francisco</option>    </select>
